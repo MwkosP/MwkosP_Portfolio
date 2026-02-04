@@ -48,7 +48,7 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 * **Fosscom 2025:** Volunteered at the University Tech Event in Thessaloniki. 
 
 ## Contact
-* **CV:** [View/Download my CV](/assets/Panagiotis_Mokos_CV.pdf)
+* **CV:** [View/Download my CV](/assets/img/Panagiotis_Mokos_CV.pdf)
 * **Email:** [mwkospanagiotis@gmail.com](mailto:mwkospanagiotis@gmail.com) 
 * **LinkedIn:** [panagiotis-mokos-09237a254](https://www.linkedin.com/in/panagiotis-mokos-09237a254) 
 * **GitHub:** [MwkosP](https://github.com/MwkosP)
