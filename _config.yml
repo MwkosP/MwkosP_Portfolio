@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-[cite_start]title: Panagiotis Mokos [cite: 1]
-description: Computer Science Student | [cite_start]Technical Support Analyst [cite: 1]
+title: Panagiotis Mokos
+description: CS Student | Technical Support Analyst | ML & Web Developer
 logo: /assets/avatar.jpg
