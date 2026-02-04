@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-Computer Science student at the **University of Macedonia** (Thessaloniki, Greece) with an expected graduation in January 2026.  Currently, I serve as a **Technical Support Analyst** at Cosmote, leveraging my technical expertise for system diagnostics.  My background includes extensive freelance experience in Data Science, Machine Learning, and Full-Stack Web Development. 
+Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). Data Scientist/Backend Developer actively learning the field every day. Currently, serving as a **Technical Support Analyst** at Cosmote, leveraging my technical expertise for system diagnostics.  My background also includes extensive freelance experience in Data Science, Machine Learning, and Full-Stack Web Development. 
 
 ## Technical Skills
 * **ML / Data Science:** Scikit-learn, TensorFlow, PyTorch, Optuna, NumPy, Pandas, Matplotlib, Plotly. 
