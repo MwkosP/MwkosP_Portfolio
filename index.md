@@ -30,7 +30,12 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 
 ## Key Projects
 
-* **Hyper-TA:** A Technical Analysis Signal Generator and Hyperparameter Optimization library. 
+* **Hyper-TA:** A Technical Analysis Signal Generator and Hyperparameter Optimization library.
+<p align="center">
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/signals.png"
+       alt="Project 1 Screenshot"
+       style="max-width:50%; height:auto; border-radius:12px;">
+</p>
 * **Neural Networks for Deepfake Detection:** Identifying manipulated facial images using CNNs and Transfer Learning. 
 * **Bitcoin Mathematical Modeling:** Price prediction utilizing Machine Learning and mathematical models. 
 * **Bittensor Subnet Mining:** Researching and implementing strategies for decentralized AI mining. 
