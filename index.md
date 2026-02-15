@@ -38,7 +38,7 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 </p>
 * **Neural Networks for Deepfake Detection:** Identifying manipulated facial images using CNNs and Transfer Learning. 
 <p align="center">
-  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/face.jpeg"
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/face.jpg"
        alt="Project 1 Screenshot"
        style="max-width:100%; height:auto; border-radius:12px;">
 </p>
