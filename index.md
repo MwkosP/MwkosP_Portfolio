@@ -34,12 +34,26 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/signals.png"
        alt="Project 1 Screenshot"
-       style="max-width:50%; height:auto; border-radius:12px;">
+       style="max-width:100%; height:auto; border-radius:12px;">
 </p>
 * **Neural Networks for Deepfake Detection:** Identifying manipulated facial images using CNNs and Transfer Learning. 
-* **Bitcoin Mathematical Modeling:** Price prediction utilizing Machine Learning and mathematical models. 
+<p align="center">
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/face.png"
+       alt="Project 1 Screenshot"
+       style="max-width:100%; height:auto; border-radius:12px;">
+</p>
+* **Bitcoin Mathematical Modeling:** Price prediction utilizing Machine Learning and mathematical models.
+<p align="center">
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/btc.png"
+       alt="Project 1 Screenshot"
+       style="max-width:100%; height:auto; border-radius:12px;">
+</p>
 * **Bittensor Subnet Mining:** Researching and implementing strategies for decentralized AI mining. 
-
+<p align="center">
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/bittensor.png"
+       alt="Project 1 Screenshot"
+       style="max-width:100%; height:auto; border-radius:12px;">
+</p>
 ---
 
 ## Education & Certifications
