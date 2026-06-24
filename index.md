@@ -93,7 +93,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/ytmation.png"
        alt="Unipmx"
-       style="max-width:60%; height:auto; border-radius:12px;">
+       style="max-width:70%; height:auto; border-radius:12px;">
 </p>
 ---
 
