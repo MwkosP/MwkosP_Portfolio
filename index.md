@@ -61,7 +61,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 
 * **Hyper-TA:** A Technical Analysis Signal Generator and Hyperparameter Optimization library.
 <p align="center">
-  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/signals.png"
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/hypertalogo.png"
        alt="Hyper-TA"
        style="max-width:100%; height:auto; border-radius:12px;">
 </p>
