@@ -4,11 +4,11 @@
 ---
 
 ## About Me
-Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data Scientist/Backend Developer** actively learning the field every day. Currently, serving as a **Technical Support Analyst** at Cosmote, leveraging my technical expertise for system diagnostics.  My background also includes extensive freelance experience in **Data Science, Machine Learning, and Full-Stack Web Development**. 
+Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Greece). **Data Scientist/Backend Developer** actively learning the field every day. My background includes experience in **Data Science, Machine Learning, and Full-Stack Web Development**. 
 
 ## Technical Skills
 * **ML / Data Science:** Scikit-learn, TensorFlow, PyTorch, Optuna, NumPy, Pandas, Matplotlib, Plotly. 
-* **Backend:** SQL, Python, FastAPI, SQLAlchemy. 
+* **Backend:** SQL, Python, FastAPI. 
 * **Web Development:** HTML, CSS, JavaScript, React, Tailwind, TypeScript, Next.js. 
 * **Other Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Vercel, REST APIs. 
 
@@ -25,14 +25,19 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 ## Experience
 
 ### **Technical Support Analyst** | Cosmote 
-*Thessaloniki, Greece | Nov 2025 – Present* 
+*Thessaloniki, Greece | 2025 * 
 * Providing technical expertise and domain knowledge for system diagnostics. 
 
 ### **Freelance Developer** | Data Science / ML / Web Development
-*Thessaloniki, Greece | Jan 2023 – Nov 2025* 
+*Thessaloniki, Greece | 2023 - 2026* 
 * Developed and trained CNN models for Deepfake and Breast Cancer detection. 
-* Built full-stack solutions, including a responsive Fuel Station website for business operations. 
-* Delivered specialized academic assignments in technical fields. 
+* Delivered specialized academic assignments in technical fields.
+
+### **Data Analyst/ Web** | Data Analysis / Website Development
+*Thessaloniki, Greece | 2025* 
+* Aggregated and Analyzed Business's Data for better decision making.
+* Built full-stack responsive Fuel Station website for business operations. 
+
 
 ---
 ## Research
