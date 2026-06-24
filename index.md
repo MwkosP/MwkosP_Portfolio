@@ -14,6 +14,14 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 
 ---
 
+## Education & Certifications
+* **B.Sc. in Computer Science** – University of Macedonia (June 2026). 
+* **English (C2 Proficiency)** – University of Michigan. 
+* **German (B2)** – KPG (ΚΠΥ). 
+
+
+---
+
 ## Experience
 
 ### **Technical Support Analyst** | Cosmote 
@@ -25,6 +33,10 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 * Developed and trained CNN models for Deepfake and Breast Cancer detection. 
 * Built full-stack solutions, including a responsive Fuel Station website for business operations. 
 * Delivered specialized academic assignments in technical fields. 
+
+---
+## Research
+
 
 ---
 
@@ -48,7 +60,7 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
        alt="Project 1 Screenshot"
        style="max-width:100%; height:auto; border-radius:12px;">
 </p>
-* **Bittensor Subnet Mining:** Researching and implementing strategies for decentralized AI mining. 
+* **Mining Intelligence | A Bittensor Thesis on decentralized AI. 
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/bittensor.png"
        alt="Project 1 Screenshot"
@@ -56,12 +68,7 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 </p>
 ---
 
-## Education & Certifications
-* **B.Sc. in Computer Science** – University of Macedonia (Expected Jan 2026). 
-* **English (C2 Proficiency)** – University of Michigan. 
-* **German (B2)** – KPG (ΚΠΥ). 
 
----
 
 ## Volunteering
 * **Fosscom 2025:** Volunteered at the University Tech Event in Thessaloniki. 
