@@ -69,7 +69,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/abstractml.png"
        alt="AbstractML"
-       style="max-width:100%; height:auto; border-radius:12px;">
+       style="max-width:60%; height:auto; border-radius:12px;">
 </p>
 * **Neural Networks for Deepfake Detection:** Identifying manipulated facial images using CNNs and Transfer Learning. 
 <p align="center">
