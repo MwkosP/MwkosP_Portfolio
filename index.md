@@ -94,7 +94,9 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 
 
 ## Volunteering
-* **Fosscom 2025:** Volunteered at the University Tech Event in Thessaloniki. 
+* **Fosscom 2025:** Volunteered at the University Tech Event in Thessaloniki.
+* **General University Contributions**
+* **Open Source Contributions** 
 
 ## Contact
 * **CV:** [View/Download my CV](https://mwkosp.github.io/MwkosP_Portfolio/assets/img/Panagiotis_Mokos_CV.pdf)
