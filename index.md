@@ -36,13 +36,13 @@ Computer Science **University of Macedonia** Bsc (Thessaloniki, Greece). **Data 
 
 ---
 ## Research
-* **Mining Intelligence | A Bittensor Thesis on decentralized AI & the evolution of Intelligence/Captialism. 
+* **Mining Intelligence:** | A Bittensor Thesis on decentralized AI & the evolution of Intelligence/Captialism. 
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/tao.jpg"
        alt="Project 1 Screenshot"
        style="max-width:100%; height:auto; border-radius:12px;">
 </p>
-* **Technical Analysis Hyperparameter optimization:** Using the Library Hyper-TA i made i will proceed to find Bets Market fit & Optimized Indicators/Signals for any given Markert backed by Statistics. 
+* **Technical Analysis Hyperparameter optimization Paper(soon..):** Using the Library Hyper-TA i made i will proceed to find Best Market fit & Optimized Indicators/Signals for any given Markert backed by Statistics. 
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/face.jpg"
        alt="Project 1 Screenshot"
