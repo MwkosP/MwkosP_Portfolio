@@ -43,7 +43,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 ## Research
 * **Mining Intelligence:** A Bittensor Thesis on decentralized AI & the evolution of Intelligence/Captialism. 
 <p align="center">
-  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/tao.jpg"
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/miningintelligence.png"
        alt="Project 1 Screenshot"
        style="max-width:100%; height:auto; border-radius:12px;">
 </p>
