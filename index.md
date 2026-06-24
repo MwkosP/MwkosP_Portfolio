@@ -25,7 +25,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 ## Experience
 
 ### **Technical Support Analyst** | Cosmote 
-*Thessaloniki, Greece | 2025 * 
+*Thessaloniki, Greece | 2025-2026* 
 * Providing technical expertise and domain knowledge for system diagnostics. 
 
 ### **Freelance Developer** | Data Science / ML / Web Development
@@ -33,7 +33,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 * Developed and trained CNN models for Deepfake and Breast Cancer detection. 
 * Delivered specialized academic assignments in technical fields.
 
-### **Data Analyst/ Web** | Data Analysis / Website Development
+### **Data Analyst/ Web** | Kemanetzidis AE.
 *Thessaloniki, Greece | 2025* 
 * Aggregated and Analyzed Business's Data for better decision making.
 * Built full-stack responsive Fuel Station website for business operations. 
@@ -41,7 +41,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 
 ---
 ## Research
-* **Mining Intelligence:** | A Bittensor Thesis on decentralized AI & the evolution of Intelligence/Captialism. 
+* **Mining Intelligence:** A Bittensor Thesis on decentralized AI & the evolution of Intelligence/Captialism. 
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/tao.jpg"
        alt="Project 1 Screenshot"
