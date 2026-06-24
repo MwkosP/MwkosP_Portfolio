@@ -89,6 +89,12 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
        alt="Unipmx"
        style="max-width:100%; height:auto; border-radius:12px;">
 </p>
+* **YTmation:** Python framework for Porgrammatic & Agentic YouTube video Creation.
+<p align="center">
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/ytmation.png"
+       alt="Unipmx"
+       style="max-width:100%; height:auto; border-radius:12px;">
+</p>
 ---
 
 
