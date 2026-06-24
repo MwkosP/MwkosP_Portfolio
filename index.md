@@ -51,7 +51,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 <p align="center">
   <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/hypertapaper.png"
        alt="Project 1 Screenshot"
-       style="max-width:100%; height:auto; border-radius:12px;">
+       style="max-width:90%; height:auto; border-radius:12px;">
 </p>
 
 
