@@ -49,7 +49,7 @@ Computer Science Graduate from **University of Macedonia** Bsc (Thessaloniki, Gr
 </p>
 * **Technical Analysis Hyperparameter optimization Paper(soon..):** Using the Library Hyper-TA i made i will proceed to find Best Market fit & Optimized Indicators/Signals for any given Markert backed by Statistics. 
 <p align="center">
-  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/face.jpg"
+  <img src="https://mwkosp.github.io/MwkosP_Portfolio/assets/img/hypertapaper.png"
        alt="Project 1 Screenshot"
        style="max-width:100%; height:auto; border-radius:12px;">
 </p>
